@@ -13,7 +13,7 @@ function App() {
             <div className="sub1"><span className="sub3">Bank</span>details</div>
             <p className="sub2">Division Of SMBB MAIN BANK</p>
           </div>
-          <div className="sub4">Products</div>
+          <div className="sub4">Product</div>
           <div className="sub4">About Us</div>
           <div className="sub4">Career</div>
           <div className="sub4">FAQs</div>
